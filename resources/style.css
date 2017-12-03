@@ -1,5 +1,29 @@
-h1 {font-family: Veranda;
+
+* {background-color: black;
+    text-align: center;}
+h1 {font-family: Verdana;
     font-weight: Normal;
     font-size: 50px;
     color: white;
     text-align: center;}
+
+h2 {font-family: Verdana;
+    font-weight: Normal;
+    font-size: 42px;
+    color: white;
+    text-align: center;}
+
+
+p {color: aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+  font-weight: bold;}
+
+h3 {font-family: Verdana;
+    color: gray;
+    font-size: 21px;
+    font-weight: normal;}
+
+h4 {text-align: right;
+    color: gray;
+    font-size: 21px;}
